@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="UTF-8">
+    <title> 金魚図鑑 </title>
+ </head>
+<body>
+    
+		<font size="5">
+		<h1 style="text-align:center">金魚図鑑</h1>		
+		</font>
+		
+		<font size="4">
+        <h2 style="text-align:center">
+        <a href="file:///Users/yasudaai/Desktop/金魚図鑑２.html">メインメニュー</a></h2>
+		</font>
+
+		<font size="4">
+		<h2 style="text-align:center">説明</h2>
+		
+		<h2 style="text-align:center">このサイトは金魚を３匹紹介するのみのサイトです。</h2>
+
+		<font size="1">
+		<h3 style="text-align:right">このページの背景は白です</h3>
+		</font>
+		
+		<div class="sample">
+ 
+
+
+</body>
+</html>
