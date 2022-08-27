@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="UTF-8">
+    <title>金魚図鑑</title>
+ </head>
+ <body>
+		
+        <font size="4">
+		<h1 style="text-align:center">金魚紹介</h1>		
+		</font>
+		
+		<div>
+		<font size="3">
+		<h2 style="text-align:center">
+		<span>金魚1</span>
+		　　　　　　　　　　　　　　<span>金魚2</span>　　　　　　　　　　　　　
+		<span>金魚3</span>
+		<h2/>
+		</font>
+		</div>
+		
+		<div>
+		<font size="2"><br>
+		<h2 style="text-align:center">			
+		<span><img src="https://png.pngtree.com/element_pic/00/16/06/10575ada139f08b.jpg" alt="画像１"></span>
+		<span><img src="https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-koi-red-goldfish-fish-png-image_349444.jpg" alt="画像２"></span>
+		<span><img src="https://png.pngtree.com/png-clipart/20190115/ourmid/pngtree-koi-red-goldfish-fish-png-image_349464.jpg" alt="画像３"></span>	
+		<h2/>
+		</font>
+	    </div>
+		
+		
+	    <div>
+		<font size="2">
+		<h2 style="text-align:center">
+		<span>説明1</span>
+		　　　　　　　　　　　　　　　　<span>説明2</span>　　　　　　　　　　　　　　　　
+		<span>説明3</span>
+		<h2/>
+		</font>
+		</div>
+								
+		<div>
+		<font size="2">
+		<h2 style="text-align:center">
+		<span>大きめ金魚</span>
+		　　　　　　　　　　　　　　<span>鯉の金魚</span>　　　　　　　　　　　　　　
+		<span>通常の金魚</span>
+		<h2/>
+		</font>
+		</div>
+								
+		
+		
+		
+
+	    <font size="2">
+        <h3 style="text-align:right">
+        <a href="file:///Users/yasudaai/Desktop/金魚図鑑１.html">戻る</a></h3>
+		</font>
+		
+
+</body>
+</html>
+
+
